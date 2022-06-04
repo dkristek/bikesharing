@@ -1,7 +1,8 @@
 # bikesharing
 ## Overview
 The objective of this project was to analyze and visualize data from a bike rental company to help inform decisions to improve the business. The data was submitted as a csv file. Pandas was used to change the 'Trip Duration' column of the data to a datetime data type. The adjusted data file was then imported into Tableau to complete the analysis and visualization. 
-
+### Dashboard Link
+[Results Dashboard](https://public.tableau.com/app/profile/david.james.kristek/viz/Bikesharing_Challenge_16537612543450/CheckoutTimesbyGender?publish=yes)
 ## Results
 Seven different visualizations were created using Tableau. The visualizations and a description of the results can be found below. 
 <details>
@@ -59,3 +60,5 @@ Seven different visualizations were created using Tableau. The visualizations an
 <br>
   This visualization acts as a heatmap for the amount of rentals throughout each day of the week separated by gender. The general trend is that subscribers make up the larger portion of the rentals. However, this is not true for non-binary category possibly due to a lack of data.
 </details>
+
+## Summary
